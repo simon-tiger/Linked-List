@@ -2,6 +2,9 @@
 
 A linked list is like an array (a list in Python), but the way it's stored in memory are different. You initially only have access to the 1st element. But, each element has a pointer to the next one, so you can easily access every element in the list. The pointer from the last element points to `null` (`None` in python).
 
+![Linked List Example](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/2560px-Singly-linked-list.svg.png)
+(Source: Wikipedia)
+
 ## Objective
 
 Implement a linked list class called `LinkedList`. You are **not** allowed to use arrays/lists anywhere in your code. It should have:
