@@ -13,3 +13,7 @@ Implement a linked list class called `LinkedList`. You are **not** allowed to us
 3. A function `insert(index, elt)` to insert any element to any given position of the linked list.
 4. A function `set(index, elt)` to change any element in the linked list to any value.
 5. A function `remove(index)` to delete any element from the linked list.
+
+## TODO
+* Add Python Version
+* Test the Test Cases
